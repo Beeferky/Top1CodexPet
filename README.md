@@ -43,3 +43,7 @@ The spritesheet was validated as:
 - Layout: 8 columns x 9 rows
 - Cell size: 192 x 208
 - Validation errors: none
+
+## License
+
+MIT License. See `LICENSE`.
